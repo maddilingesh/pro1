@@ -1,3 +1,5 @@
+package pro1;
+
 public class App {
     public static void main(String[] args) {
         double number = 12.3;
